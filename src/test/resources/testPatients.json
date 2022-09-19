@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "firstName": "Dude",
+    "lastName": "McDuderson",
+    "age": 51,
+    "allergies": [
+      "Pollen",
+      "Cats"
+    ]
+  },
+  {
+    "id": 2,
+    "firstName": "Ralph",
+    "lastName": "O'Lolohplar",
+    "age": 14,
+    "allergies": [
+      "Barium"
+    ]
+  },
+  {
+    "id": 3,
+    "firstName": "Florence",
+    "lastName": "Van Fluffy",
+    "age": 45,
+    "allergies": [
+      "Peanuts"
+    ]
+  },
+  {
+    "id": 4,
+    "firstName": "Jon",
+    "lastName": "Johnson",
+    "age": 23,
+    "allergies": [
+      "Latex",
+      "Barium"
+    ]
+  },
+  {
+    "id": 5,
+    "firstName": "Jia",
+    "lastName": "Van Navaij",
+    "age": 6
+  }
+]
