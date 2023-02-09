@@ -1,4 +1,4 @@
-# Welcome the the Agfa Healthcare Waterloo Java interview exercise
+# Welcome to the Agfa HealthCare Waterloo Java interview exercise
 
 Before the interview, please perform the following steps:
 
@@ -10,9 +10,9 @@ Before the interview, please perform the following steps:
 	
 	```./gradlew build``` (on Mac or Linux)
 
-	NOTE: if you are on Mac or Linux and this command doesn't you may need to give 'execute' to the file with ```chmod 0755 gradlew```
+	NOTE: if you are on Mac or Linux and this command doesn't work you may need to give 'execute' to the file with ```chmod 0755 gradlew```
 
-4. Open this project in your favourite Java capable IDE. (We've tested with IntelliJ and VSCode with the Java Compatibility Pack installed)
-5. Make sure you can successfully run the test in GoodToGoTest.java
+4. Open this project in your favourite Java capable IDE. (We've tested with IntelliJ and VSCode with the [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) installed)
+5. Make sure you can successfully run the test in `GoodToGoTest.java`
 6. Feel free to look at the starter code that you see (but don't edit it yet)
 7. Be prepared to screen share your IDE over Teams.
