@@ -11,7 +11,7 @@ public class PatientServiceTest {
         ClassLoader classLoader = getClass().getClassLoader();
         File file = new File(classLoader.getResource("testPatients.json").getFile());
 
-        PatientService patientService = new PatientService();
-        assertThat(patientService.getPatients(file)).hasSize(5);
+        PatientService patientService = new PatientService(file);
+        assertThat(patientService.getPatients()).hasSize(5);
     }
 }
